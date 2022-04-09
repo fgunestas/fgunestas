@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/fgunestas" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caesarmario">
+  </a>
+  <a href="https://www.kaggle.com/figfiglol" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/caesarmario">
+  </a>
+</p>
 <!--
 **fgunestas/fgunestas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
