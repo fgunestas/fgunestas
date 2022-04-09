@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-  ![figfiglol](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{figfiglol})
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/figfiglol"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/figfiglol/competition/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/figfiglol/dataset/"/>
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/figfiglol/notebook/"/>
