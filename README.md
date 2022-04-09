@@ -7,6 +7,12 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/caesarmario">
   </a>
 </p>
+<p align="center">
+  <!-- <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/caesarmario/competition/"/> -->
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/figfiglol/dataset/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/figfiglol/notebook/"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/figfiglol/discussion/"/>
+</p>
 <!--
 **fgunestas/fgunestas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
